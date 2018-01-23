@@ -1,0 +1,8 @@
+#surefire
+#Mon Jan 22 21:08:57 COT 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\NetBeansProjectsSasa\\belatrix
+file.encoding=UTF-8
+localRepository=C\:\\Users\\joseph\\.m2\\repository
+basedir=D\:\\NetBeansProjectsSasa\\belatrix
+test=com.test.belatrix.JobLoggerIT

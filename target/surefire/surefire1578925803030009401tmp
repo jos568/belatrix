@@ -1,0 +1,22 @@
+#surefire
+#Mon Jan 22 21:07:16 COT 2018
+testClassesDirectory=D\:\\NetBeansProjectsSasa\\belatrix\\target\\test-classes
+forkMode=once
+classPathUrl.3=C\:\\Users\\joseph\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.2=C\:\\Users\\joseph\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\NetBeansProjectsSasa\\belatrix\\target\\classes
+classPathUrl.0=D\:\\NetBeansProjectsSasa\\belatrix\\target\\test-classes
+reportsDirectory=D\:\\NetBeansProjectsSasa\\belatrix\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\NetBeansProjectsSasa\\belatrix\\src\\test\\java
+requestedTest=com.test.belatrix.JobLoggerIT
+surefireClassPathUrl.1=C\:\\Users\\joseph\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\joseph\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+isTrimStackTrace=true
+enableAssertions=true
+failIfNoTests=true
+includes0=**/com/test/belatrix/JobLoggerIT.java
+childDelegation=false
